@@ -1,7 +1,7 @@
 # Image Segmentation with Depth Estimation
 
 ## Overview
-This project focuses on image segmentation using depth maps obtained from LIDAR data and camera images. By leveraging both 2D dense depth maps and original images, the application achieves object segmentation while also estimating the depth of segmented objects. 
+This project focuses on image segmentation using depth maps obtained from LIDAR data and camera images. By leveraging both 2D dense depth maps and original images, the application achieves object segmentation while also estimating the depth of segmented objects.  
    
 ### Key Features  
 - Uses classical computer vision techniques for depth completion and image segmentation.
