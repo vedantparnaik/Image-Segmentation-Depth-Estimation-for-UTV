@@ -7,7 +7,7 @@ This project focuses on image segmentation using depth maps obtained from LIDAR 
 - Uses classical computer vision techniques for depth completion and image segmentation.
 - Does not require neural networks, making it efficient and faster on CPUs.
 - Superimposes depth images onto original images for enhanced segmentation.
-
+ 
 ## Project Structure
 - `depth_completion.py`: Runs the depth completion process using the `ip_basic` algorithm, generating dense depth maps.
 - `segment.py`: Takes the original image and the completed depth image, blends them, and performs segmentation using Mean-shift clustering.
